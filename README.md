@@ -1,6 +1,6 @@
-# Identity Card Generator Using Django :bath:
+# Identity Card Generator Using Django 
 
-Building a simple (maybe clean) ID-Card Generator. 
+Building a simple (maybe clean :bath:) ID-Card Generator. 
 
 #### Libraries:
 - Following the Documentation [Outputting PDFs with Django](https://docs.djangoproject.com/en/3.2/howto/outputting-pdf/) to generate the PDF output
