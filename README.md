@@ -1,4 +1,4 @@
-# Identity Card Generator Using Django
+# Identity Card Generator Using Django :bath:
 
 Building a simple (maybe clean) ID-Card Generator. 
 
