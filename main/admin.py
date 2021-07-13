@@ -1,3 +1,5 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Employee, Sector, Department, Card
+
+admin.site.register([Employee,Sector,Department, Card])
